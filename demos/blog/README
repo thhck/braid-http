@@ -1,5 +1,7 @@
 This is a demo blog / chat.
 
+Requirement: node > 18
+
 To run the demo:
 
     git clone https://github.com/braid-work/braidjs.git
@@ -9,3 +11,5 @@ To run the demo:
 
 Then open https://localhost:3009/ in your browser, and then click through the
 self-signed certificate warnings to "proceed anyway".
+
+IMPORTANT: use http*S* ( with TLS ) otherwise the demo won't work
